@@ -1,0 +1,62 @@
+table tr td
+{
+    padding: 50px;
+}
+
+td
+{
+    background-image: url(Sütik/falmingo.jpg);
+}
+
+body
+{
+    background-color: beige;
+    margin: 0 auto 0 auto;
+}
+
+.fejlec
+{
+    background-image: url(Sütik/939b2ff068edbf48e2540937ac56f97b.jpg);
+    height: 60px;
+    padding: 30px;
+}
+
+.gomb
+{
+    color: wheat;
+}
+
+p
+{
+    color: #FDF5CC;
+
+}
+
+.left
+{
+    background-image: url(Sütik/Macarons.jpg);
+    background-repeat: repeat-y;
+    background-size: 225px 150px;
+    width: 125px;
+}
+
+.right
+{
+    background-image: url(Sütik/Macarons.jpg);
+    background-repeat: repeat-y;
+    background-size: 225px 150px;
+    width: 125px;
+}
+
+.belso tr td img
+{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.belso tr td
+{
+    border: 10px solid black;
+}
