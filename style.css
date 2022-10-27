@@ -10,15 +10,27 @@ body
 
 .logo
 {
-    color: black;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+
 }
 
 .navbar 
 {
-    color: black;
+    background-image: url(kave_kepek/939b2ff068edbf48e2540937ac56f97b.jpg);
 }
 
 .infos
 {
     color: black;
+}
+a
+{
+    color:#FDF5CC;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bolder;
+    font-size: larger;
 }
