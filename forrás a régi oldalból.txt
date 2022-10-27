@@ -1,0 +1,20 @@
+Kávéfajták:
+ Espresso
+ Americano
+Cappuccino
+Latte Macchiato
+Melange
+Chai Latte
+Pumpkin Spice Latte
+Choco-Latte
+
+
+Sütemények:
+  Tiramisu
+  Kávés Brownie
+ Kávés süti
+ Kávés croissant
+ Kávés muffin
+ Mignon
+ Csokis keksz
+ 
