@@ -1,0 +1,32 @@
+table tr td img
+{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+table
+{
+    align-items: center;
+    border-color: green;
+    padding: 2px solid;
+}
+td
+{
+    padding: 50px;
+}
+body
+{
+    background-color: beige;
+    margin: 0 auto 0 auto;
+}
+.fejlec
+{
+    background-image: url(kave_kepek/939b2ff068edbf48e2540937ac56f97b.jpg);
+    height: 60px;
+    padding: 30px;
+}
+.gomb
+{
+    color: wheat;
+}
