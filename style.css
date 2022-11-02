@@ -1,6 +1,7 @@
-body 
+body
 {
-    color: black;
+    background-color: beige;
+    margin: 0 auto 0 auto;
     background-image: url(kave_kepek/3d-render-cup-coffee-coffee-beans-wood-table-with-sunset-natural_56345-298.jpg);
 }
 
@@ -18,7 +19,7 @@ body
 
 }
 
-.navbar 
+.fejlec
 {
     background-image: url(kave_kepek/939b2ff068edbf48e2540937ac56f97b.jpg);
 }
