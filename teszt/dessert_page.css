@@ -14,9 +14,7 @@ body
 
 .fejlec
 {
-    background-image: url(Sütik/939b2ff068edbf48e2540937ac56f97b.jpg);
-    height: 60px;
-    padding: 30px;
+    background-image: url(../kave_kepek/939b2ff068edbf48e2540937ac56f97b.jpg);
 }
 
 .gomb
@@ -65,4 +63,17 @@ table
 .falmingo
 {
     background-image: url(Sütik/falmingo.jpg);
+}
+.logo
+{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+
+
+}
+.gomb
+{
+    color: wheat;
 }
