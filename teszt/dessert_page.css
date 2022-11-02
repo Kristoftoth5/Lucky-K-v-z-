@@ -3,15 +3,13 @@ table tr td
     padding: 50px;
 }
 
-td
-{
-    background-image: url(Sütik/falmingo.jpg);
-}
+
 
 body
 {
     background-color: beige;
     margin: 0 auto 0 auto;
+    background-image: url(../kave_kepek/3d-render-cup-coffee-coffee-beans-wood-table-with-sunset-natural_56345-298.jpg);
 }
 
 .fejlec
@@ -34,7 +32,7 @@ p
 
 .left
 {
-    background-image: url(Sütik/Macarons.jpg);
+
     background-repeat: repeat-y;
     background-size: 225px 150px;
     width: 125px;
@@ -42,7 +40,7 @@ p
 
 .right
 {
-    background-image: url(Sütik/Macarons.jpg);
+
     background-repeat: repeat-y;
     background-size: 225px 150px;
     width: 125px;
@@ -59,4 +57,12 @@ p
 .belso tr td
 {
     border: 10px solid black;
+}
+table
+{
+    margin: 0 auto 0 auto;
+}
+.falmingo
+{
+    background-image: url(Sütik/falmingo.jpg);
 }
