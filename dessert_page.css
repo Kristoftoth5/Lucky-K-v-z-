@@ -1,39 +1,20 @@
-table tr td img
-{
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 50%;
-}
-
-table
-{
-    align-items: center;
-}
-
-table tr td 
-{
-    border: 10px solid black;
-}
-
-td
+table tr td
 {
     padding: 50px;
-    background-image: url();
 }
+
+
 
 body
 {
     background-color: beige;
     margin: 0 auto 0 auto;
-    background-image: url(kave_kepek/3d-render-cup-coffee-coffee-beans-wood-table-with-sunset-natural_56345-298.jpg);
+    background-image: url(../kave_kepek/3d-render-cup-coffee-coffee-beans-wood-table-with-sunset-natural_56345-298.jpg);
 }
 
 .fejlec
 {
-    background-image: url(Sütik/939b2ff068edbf48e2540937ac56f97b.jpg);
-    height: 60px;
-    padding: 30px;
+    background-image: url(../kave_kepek/939b2ff068edbf48e2540937ac56f97b.jpg);
 }
 
 .gomb
@@ -45,4 +26,54 @@ p
 {
     color: #FDF5CC;
 
+}
+
+.left
+{
+
+    background-repeat: repeat-y;
+    background-size: 225px 150px;
+    width: 125px;
+}
+
+.right
+{
+
+    background-repeat: repeat-y;
+    background-size: 225px 150px;
+    width: 125px;
+}
+
+.belso tr td img
+{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.belso tr td
+{
+    border: 10px solid black;
+}
+table
+{
+    margin: 0 auto 0 auto;
+}
+.falmingo
+{
+    background-image: url(Sütik/falmingo.jpg);
+}
+.logo
+{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+
+
+}
+.gomb
+{
+    color: wheat;
 }
