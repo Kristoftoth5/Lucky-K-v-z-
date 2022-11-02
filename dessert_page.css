@@ -77,3 +77,11 @@ table
 {
     color: wheat;
 }
+a
+{
+    color:#FDF5CC;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bolder;
+    font-size: larger;
+}
