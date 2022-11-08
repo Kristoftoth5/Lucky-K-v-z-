@@ -37,3 +37,23 @@ a
     padding-left: 1050px;
     color: #FDF5CC;
 }
+.yes tr td img
+{
+    width: 400px;
+    height: auto;
+    object-fit: cover;
+}
+.yes tr td 
+{
+    border: 10px solid black;
+}
+.yes td
+{
+    padding: 10px;
+    height: 200px;
+    background-image: url(kave_kepek/falmingo.jpg);
+}
+.yes
+{
+    margin: 0 auto 0 auto;
+}
