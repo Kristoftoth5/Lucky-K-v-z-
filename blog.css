@@ -5,6 +5,7 @@ body
     background-image: url(kave_kepek/3480554.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    color: beige;
 }
 .fejlec
 {
@@ -21,4 +22,8 @@ body
 {
     padding-left: 1050px;
     color: #FDF5CC;
+}
+a:any-link
+{
+    color: beige;
 }
