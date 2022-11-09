@@ -4,7 +4,7 @@ body
     margin: 0 auto 0 auto;
     background-image: url(kave_kepek/3480554.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 .fejlec
 {
@@ -16,4 +16,9 @@ body
     height: 150px;
     object-fit: cover;
     border-radius: 50%;
+}
+.a
+{
+    padding-left: 1050px;
+    color: #FDF5CC;
 }
