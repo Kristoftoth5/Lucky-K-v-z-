@@ -9,6 +9,8 @@ table tr td img
 table
 {
     align-items: center;
+    font-style: bold;
+    font-size: 16pt;
 }
 
 table tr td 
