@@ -39,4 +39,9 @@ a
     text-align: justify;
     background-color: darkgreen;
 }
+.sidebar
+{
+    float: left;
+    width: 16%;
+}
 
